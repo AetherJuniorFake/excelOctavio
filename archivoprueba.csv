@@ -1,8 +1,0 @@
-SalesOrderID	SalesOrderDetailID	OrderQty	UnitPriceWithDiscount	UnitPrice	UnitPriceDiscount	LineTotal	ProductID	productName	StandardCost	ListPrice	productCategoryName	CompanyName	ShipMethod	DueDate	shipToAddressCity	sucursal
-999992	999992	3	123	66443	0	0	1	ML Road Frame - W - Yellow 12	12312	5647	NULL	NULL	NULL	01/07/2021 00:00	Tabasco	Sucursal 2
-999993	999993	4	2441	4345	0	0	2	ML Road Frame - W - Yellow 13	42123	789456	NULL	NULL	NULL	01/07/2021 00:00	Durango	Sucursal 3
-999994	999994	12	342341	4234	0	0	3	Rear Brakes	4234	45634	NULL	NULL	NULL	01/07/2021 00:00	Tabasco	Sucursal 4
-999995	999995	79	5667	123	0	0	4	ML Road Frame - W - Yellow 14	123	4575	NULL	NULL	NULL	01/07/2021 00:00	Veracruz	Sucursal 5
-999996	999996	4	1234	4353	0	0	5	ML Road Frame - W - Yellow 15	5123	3456	NULL	NULL	NULL	01/07/2021 00:00	Tlaxcala	Sucursal 6
-999997	999997	58	345676	34545	0	0	6	ML Road Frame - W - Yellow 16	45121	75453	NULL	NULL	NULL	01/07/2021 00:00	Veracruz	Sucursal 7
-999998	999998	90	12346	77534	0	0	7	ML Road Frame - W - Yellow 17	235566	6364	NULL	NULL	NULL	01/07/2021 00:00	Tabasco	Sucursal 8
